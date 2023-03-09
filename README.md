@@ -7,4 +7,4 @@
 <div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Thibov16"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Thibov16" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Thibov16" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Thibov16" /></a></p><br><br>
